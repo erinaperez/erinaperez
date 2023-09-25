@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erinaperez&label=Profile%20views&color=0509f0&style=plastic" alt="erinaperez" /> </p>
 
-- 🔭 I’m currently working with [Cherry on Tech](https://github.com/cherryontech) and a personal project, [Food Shared](https://github.com/erinaperez/front-end-FS)
+- 🔭 I’m currently working with [Cherry on Tech](https://github.com/cherryontech) and also on a personal project, [Food Shared](https://github.com/erinaperez/front-end-FS)
 
 - 🌱 I’m currently learning **React, Google Firebase, AWS Cloud**
 
