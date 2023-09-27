@@ -15,7 +15,7 @@
 
 - ⚡ Fun facts **I once excavated a Neanderthal archaeological site**
   
-- 📷 Interests outside of programming: **photography, wheel-thrown ceramics, quilting**
+- 📷 Other interests **photography, wheel-thrown ceramics, quilting**
   
 
 <h3 align="left">Connect with me:</h3>
