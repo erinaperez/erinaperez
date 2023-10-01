@@ -1,5 +1,5 @@
 ![Header](./public/header-image.png)
-<h3 align="left">As a passionate full stack developer with years of diverse professional experience in anthropology and linguistics, I am adept at collaborating on cross-functional, international teams, working with complex datasets, managing databases, and developing impactful projects. I am always learning and looking for opportunities to strengthen and expand my knowledge and skills.</h3>
+<h3 align="left">As a passionate full stack developer, I am adept at collaborating on cross-functional, international teams, working with complex datasets, managing databases, and developing impactful projects. I am always learning and looking for opportunities to grow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erinaperez&label=Profile%20views&color=0509f0&style=plastic" alt="erinaperez" /> </p>
 
