@@ -3,25 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erinaperez&label=Profile%20views&color=0509f0&style=plastic" alt="erinaperez" /> </p>
 
-- 🔭 I’m currently working with [Cherry on Tech](https://github.com/cherryontech) and also on a personal project, [Food Shared](https://github.com/erinaperez/front-end-FS)
+- 🔭 Currently working with: <br>
+**[Cherry on Tech](https://github.com/cherryontech) and on multiple personal projects**
 
-- 🌱 I’m currently learning
-  **React, Google Firebase, AWS Cloud**
+- 🌱 Currently learning:  <br>
+**React, Google Firebase, AWS**
 
-- 👯 I’m looking to collaborate on
-  **open source projects**
+- 👯 Looking to collaborate on <br>
+**open source projects**
 
-- 💼 I'm searching for
+- 💼 Searching for: <br>
   **an entry-level software engineer role**
 
-- 📫 How to reach me
-  **hello@erinaperez.tech and LinkedIn**
+- 📫 How to reach me: <br>
+**hello@erinaperez.tech and LinkedIn**
 
-- ⚡ Fun facts
-  **I excavated a Neanderthal archaeological site**
+- ⚡ Fun fact: <br>
+**I excavated a Neanderthal archaeological site**
   
-- 📷 Other interests
-  **photography, wheel-thrown ceramics, quilting**
+- 📷 Other interests: <br>
+**photography, wheel-thrown ceramics, quilting**
   
 
 <h3 align="left">Connect with me:</h3>
