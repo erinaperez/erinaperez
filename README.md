@@ -5,17 +5,23 @@
 
 - 🔭 I’m currently working with [Cherry on Tech](https://github.com/cherryontech) and also on a personal project, [Food Shared](https://github.com/erinaperez/front-end-FS)
 
-- 🌱 I’m currently learning **React, Google Firebase, AWS Cloud**
+- 🌱 I’m currently learning
+  **React, Google Firebase, AWS Cloud**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on
+  **open source projects**
 
-- 💼 I'm searching for **an entry-level software engineer role**
+- 💼 I'm searching for
+  **an entry-level software engineer role**
 
-- 📫 How to reach me **hello@erinaperez.tech and LinkedIn**
+- 📫 How to reach me
+  **hello@erinaperez.tech and LinkedIn**
 
-- ⚡ Fun facts **I once excavated a Neanderthal archaeological site**
+- ⚡ Fun facts
+  **I excavated a Neanderthal archaeological site**
   
-- 📷 Other interests **photography, wheel-thrown ceramics, quilting**
+- 📷 Other interests
+  **photography, wheel-thrown ceramics, quilting**
   
 
 <h3 align="left">Connect with me:</h3>
