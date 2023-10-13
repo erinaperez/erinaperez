@@ -1,28 +1,4 @@
 ![Header](./public/header-image.png)
-<h3 align="left">As a passionate full stack developer, I am adept at collaborating on cross-functional, international teams, working with complex datasets, managing databases, and developing impactful projects. I am always learning and looking for opportunities to grow.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erinaperez&label=Profile%20views&color=0509f0&style=plastic" alt="erinaperez" /> </p>
-
-- 🔭 Currently working with: <br>
-**[Cherry on Tech](https://github.com/cherryontech) and on multiple personal projects**
-
-- 🌱 Currently learning:  <br>
-**React, Google Firebase, AWS**
-
-- 👯 Looking to collaborate on <br>
-**open source projects**
-
-- 💼 Searching for: <br>
-  **an entry-level software engineer role**
-
-- 📫 How to reach me: <br>
-**hello@erinaperez.tech and LinkedIn**
-
-- ⚡ Fun fact: <br>
-**I excavated a Neanderthal archaeological site**
-  
-- 📷 Other interests: <br>
-**photography, wheel-thrown ceramics, quilting**
   
 
 <h3 align="left">Connect with me:</h3>
