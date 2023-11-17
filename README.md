@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on: Launch Academy with [makeitMVP](https://www.makeitmvp.com/) and another project with [Cherry on Tech](https://cherryon.tech/page/cohort/)
 - 🌱 I’m currently learning: React and Firebase
 - 👯 I’m looking to collaborate on: open source and community projects
-- 📫 How to reach me: erinaperez@gmail.com | [my Calendly](https://calendly.com/erinaperez/30min)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/erinaperez/) | [my Calendly](https://calendly.com/erinaperez/30min)
 - ⚡ Fun fact: I used to do archaeology and forensic anthropology
 - 😄 Pronouns: she/they
 
